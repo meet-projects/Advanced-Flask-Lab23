@@ -12,7 +12,7 @@ By the end of this lab, you will have your Instagram profile page look something
 
 
 
-> Before we start, make sure to fork the repo, and clone the code to your machine.
+### Before we start, make sure to download the [zip file]([url](https://drive.google.com/file/d/1SLoR17YalIrFXn55fbFVUaX_EpGJYYxF/view?usp=sharing)) and export it to sublime
 
 
 ## Instructions:
@@ -60,6 +60,6 @@ If not, make sure you submit your code here.
     - *Hint: maybe something like, say, every 3 posts on a row? or something like that.*
 
 ##### Great job on completing the bonus problems section!  
-###### make sure you submit your code here.
+### make sure you submit your code here.
 
 
