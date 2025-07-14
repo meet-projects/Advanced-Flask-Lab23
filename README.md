@@ -12,7 +12,7 @@ By the end of this lab, you will have your Instagram profile page look something
 
 
 
-### Before we start, make sure to download the [zip file]([url](https://drive.google.com/file/d/1SLoR17YalIrFXn55fbFVUaX_EpGJYYxF/view?usp=sharing)) and export it to sublime
+### Before we start, make sure to download the [zip file](https://drive.google.com/file/d/1SLoR17YalIrFXn55fbFVUaX_EpGJYYxF/view?usp=sharing) and export it to sublime
 
 
 ## Instructions:
