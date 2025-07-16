@@ -44,7 +44,7 @@ Now, after you're done with setting up the profile info, let's display our posts
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure you submit your code here.
+If not, make sure you submit your code [here](https://forms.gle/sizeuZBJgmbiY5tT8).
 
 
 <img src="https://miro.medium.com/max/1200/1*SzN6u2U98S4RyhWo_WyaHQ.png" width="400">
@@ -60,6 +60,6 @@ If not, make sure you submit your code here.
     - *Hint: maybe something like, say, every 3 posts on a row? or something like that.*
 
 ##### Great job on completing the bonus problems section!  
-### make sure you submit your code here.
+### make sure you submit your code [here](https://forms.gle/sizeuZBJgmbiY5tT8).
 
 
